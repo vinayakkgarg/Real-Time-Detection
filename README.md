@@ -1,5 +1,10 @@
-Real Time Face Detection using Pretrained Haar Cascades
+Real Time Face Recognition
 
-This is the practical application of the Viola-Jones Algorithm for Face Detection using a Boosted Cascade of Simple Features.
+In this project you can save facial data of multiple users and then recognize their faces in real time.
 
-The link to the official paper: https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf
+How to run:
+
+1. Execute face_data_collect.ipynb and enter the name of the person
+2. Allow the script to click multiple pictures of the user.
+3. Run face_recognition.ipynb to recognise the saved users in real-time.
+
