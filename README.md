@@ -8,3 +8,4 @@ How to run:
 2. Allow the script to click multiple pictures of the user.
 3. Run face_recognition.ipynb to recognise the saved users in real-time.
 
+![sample test image](test.png)
